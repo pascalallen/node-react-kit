@@ -63,4 +63,4 @@ bin/down
 
 ```bash
 bin/exec <node ./app.js>
-```p
+```
